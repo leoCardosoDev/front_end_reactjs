@@ -1,0 +1,74 @@
+{
+  "hash": "bdc3c4dc",
+  "browserHash": "c4d34a6c",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "522a3acd",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "635a0f1a",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "c0c0f705",
+      "needsInterop": false
+    },
+    "@refinedev/antd": {
+      "src": "../../node_modules/@refinedev/antd/dist/index.mjs",
+      "file": "@refinedev_antd.js",
+      "fileHash": "2cf73583",
+      "needsInterop": false
+    },
+    "@refinedev/core": {
+      "src": "../../node_modules/@refinedev/core/dist/index.mjs",
+      "file": "@refinedev_core.js",
+      "fileHash": "6b5ae197",
+      "needsInterop": false
+    },
+    "@refinedev/devtools": {
+      "src": "../../node_modules/@refinedev/devtools/dist/index.mjs",
+      "file": "@refinedev_devtools.js",
+      "fileHash": "0c7a4956",
+      "needsInterop": false
+    },
+    "@refinedev/react-router-v6": {
+      "src": "../../node_modules/@refinedev/react-router-v6/dist/index.mjs",
+      "file": "@refinedev_react-router-v6.js",
+      "fileHash": "0f11104f",
+      "needsInterop": false
+    },
+    "antd": {
+      "src": "../../node_modules/antd/es/index.js",
+      "file": "antd.js",
+      "fileHash": "0d57bc61",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-T6DYEY2W": {
+      "file": "chunk-T6DYEY2W.js"
+    },
+    "chunk-ID2P3HH7": {
+      "file": "chunk-ID2P3HH7.js"
+    },
+    "chunk-PHKTZEBS": {
+      "file": "chunk-PHKTZEBS.js"
+    },
+    "chunk-EVCHQRRP": {
+      "file": "chunk-EVCHQRRP.js"
+    },
+    "chunk-IQIM4YRK": {
+      "file": "chunk-IQIM4YRK.js"
+    },
+    "chunk-WJ7KPZKQ": {
+      "file": "chunk-WJ7KPZKQ.js"
+    }
+  }
+}
